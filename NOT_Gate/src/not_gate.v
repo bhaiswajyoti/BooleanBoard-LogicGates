@@ -4,7 +4,7 @@
 // Create Date: 07.06.2025 17:05:20
 // Design Name: NOT Gate 
 // Module Name: not_gate
-// Project Name: 
+// Project Name: Boolean Board Logic Gates
 // Target Devices: The Boolean Board
 // Tool Versions: Vivado 2024.1
 //////////////////////////////////////////////////////////////////////////////////
